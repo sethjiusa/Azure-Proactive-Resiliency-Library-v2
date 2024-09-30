@@ -124,7 +124,7 @@
   longDescription: |
     When using Failover Groups, it is recommended to connect to the Failover Group endpoint instead of individual database endpoints. This allows for automatic redirection to the secondary database in case of a failover, ensuring high availability.
   potentialBenefits: Enhanced disaster recovery
-  pgVerified: false
+  pgVerified: true
   publishedToLearn: false
   automationAvailable: false
   tags: null
